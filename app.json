@@ -1,0 +1,12 @@
+{
+  "name": "my_records",
+  "displayName": "my_records",
+  "expo": {
+    "name": "my_records",
+    "slug": "my_records",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
